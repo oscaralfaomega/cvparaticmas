@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+}
+header {
+    width: 550px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr
+)
+;
+}
+img {
+    height: 50%;
+}
